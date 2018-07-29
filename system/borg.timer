@@ -1,4 +1,4 @@
-# This runs all borg backups regularely.
+# This runs all borg backups regularly.
 # This file is part of borg-cron-helper.
 
 [Unit]
